@@ -1,5 +1,3 @@
-> [AMA](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA) → Ask Me Anything
-
 # Ask me anything!
 
 ## [Ask a question](../../issues/new) &nbsp; or &nbsp; [Read questions](../../issues?q=)

@@ -23,8 +23,6 @@ Anything means *anything*. Personal questions. Work. Life. Design. Code. Whateve
 
 ## License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
 The work in this project, including the issue tracker, is subject to rights belonging to the authors. 
 By contributing text to this project, your rights are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. 
 To view a copy of this license, visit <http://creativecommons.org/licenses/by-sa/4.0/>
